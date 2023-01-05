@@ -1,0 +1,16 @@
+/remote-home/share/Datasets/ModelNet40/plant/train/plant_0076.off
+/remote-home/share/Datasets/ModelNet40/plant/train/plant_0044.off
+/remote-home/share/Datasets/ModelNet40/plant/train/plant_0228.off
+/remote-home/share/Datasets/ModelNet40/plant/train/plant_0085.off
+/remote-home/share/Datasets/ModelNet40/plant/train/plant_0018.off
+/remote-home/share/Datasets/ModelNet40/plant/train/plant_0069.off
+/remote-home/share/Datasets/ModelNet40/plant/train/plant_0168.off
+/remote-home/share/Datasets/ModelNet40/plant/train/plant_0109.off
+/remote-home/share/Datasets/ModelNet40/plant/train/plant_0086.off
+/remote-home/share/Datasets/ModelNet40/plant/train/plant_0016.off
+/remote-home/share/Datasets/ModelNet40/plant/train/plant_0108.off
+/remote-home/share/Datasets/ModelNet40/plant/train/plant_0170.off
+/remote-home/share/Datasets/ModelNet40/plant/train/plant_0232.off
+/remote-home/share/Datasets/ModelNet40/plant/train/plant_0028.off
+/remote-home/share/Datasets/ModelNet40/plant/train/plant_0036.off
+/remote-home/share/Datasets/ModelNet40/plant/train/plant_0035.off

@@ -1,0 +1,17 @@
+/remote-home/share/Datasets/ModelNet40/cone/train/cone_0146.off
+/remote-home/share/Datasets/ModelNet40/cone/train/cone_0044.off
+/remote-home/share/Datasets/ModelNet40/cone/train/cone_0060.off
+/remote-home/share/Datasets/ModelNet40/cone/train/cone_0002.off
+/remote-home/share/Datasets/ModelNet40/cone/train/cone_0080.off
+/remote-home/share/Datasets/ModelNet40/cone/train/cone_0118.off
+/remote-home/share/Datasets/ModelNet40/cone/train/cone_0142.off
+/remote-home/share/Datasets/ModelNet40/cone/train/cone_0088.off
+/remote-home/share/Datasets/ModelNet40/cone/train/cone_0018.off
+/remote-home/share/Datasets/ModelNet40/cone/train/cone_0013.off
+/remote-home/share/Datasets/ModelNet40/cone/train/cone_0048.off
+/remote-home/share/Datasets/ModelNet40/cone/train/cone_0054.off
+/remote-home/share/Datasets/ModelNet40/cone/train/cone_0075.off
+/remote-home/share/Datasets/ModelNet40/cone/train/cone_0084.off
+/remote-home/share/Datasets/ModelNet40/cone/train/cone_0007.off
+/remote-home/share/Datasets/ModelNet40/cone/train/cone_0153.off
+/remote-home/share/Datasets/ModelNet40/cone/train/cone_0100.off

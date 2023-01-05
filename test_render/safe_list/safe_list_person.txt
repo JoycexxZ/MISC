@@ -1,0 +1,16 @@
+/remote-home/share/Datasets/ModelNet40/person/train/person_0075.off
+/remote-home/share/Datasets/ModelNet40/person/train/person_0085.off
+/remote-home/share/Datasets/ModelNet40/person/train/person_0013.off
+/remote-home/share/Datasets/ModelNet40/person/train/person_0051.off
+/remote-home/share/Datasets/ModelNet40/person/train/person_0043.off
+/remote-home/share/Datasets/ModelNet40/person/train/person_0038.off
+/remote-home/share/Datasets/ModelNet40/person/train/person_0067.off
+/remote-home/share/Datasets/ModelNet40/person/train/person_0072.off
+/remote-home/share/Datasets/ModelNet40/person/train/person_0007.off
+/remote-home/share/Datasets/ModelNet40/person/train/person_0056.off
+/remote-home/share/Datasets/ModelNet40/person/train/person_0023.off
+/remote-home/share/Datasets/ModelNet40/person/train/person_0028.off
+/remote-home/share/Datasets/ModelNet40/person/train/person_0083.off
+/remote-home/share/Datasets/ModelNet40/person/train/person_0010.off
+/remote-home/share/Datasets/ModelNet40/person/train/person_0058.off
+/remote-home/share/Datasets/ModelNet40/person/train/person_0045.off

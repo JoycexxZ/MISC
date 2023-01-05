@@ -1,0 +1,16 @@
+/remote-home/share/Datasets/ModelNet40/stairs/train/stairs_0009.off
+/remote-home/share/Datasets/ModelNet40/stairs/train/stairs_0005.off
+/remote-home/share/Datasets/ModelNet40/stairs/train/stairs_0113.off
+/remote-home/share/Datasets/ModelNet40/stairs/train/stairs_0115.off
+/remote-home/share/Datasets/ModelNet40/stairs/train/stairs_0060.off
+/remote-home/share/Datasets/ModelNet40/stairs/train/stairs_0007.off
+/remote-home/share/Datasets/ModelNet40/stairs/train/stairs_0041.off
+/remote-home/share/Datasets/ModelNet40/stairs/train/stairs_0066.off
+/remote-home/share/Datasets/ModelNet40/stairs/train/stairs_0045.off
+/remote-home/share/Datasets/ModelNet40/stairs/train/stairs_0081.off
+/remote-home/share/Datasets/ModelNet40/stairs/train/stairs_0095.off
+/remote-home/share/Datasets/ModelNet40/stairs/train/stairs_0062.off
+/remote-home/share/Datasets/ModelNet40/stairs/train/stairs_0117.off
+/remote-home/share/Datasets/ModelNet40/stairs/train/stairs_0037.off
+/remote-home/share/Datasets/ModelNet40/stairs/train/stairs_0098.off
+/remote-home/share/Datasets/ModelNet40/stairs/train/stairs_0099.off
